@@ -32,4 +32,4 @@ Stephanie Schuckers, Paulo Meyer Lopez, Peter Johnson, Nadezhda Sazonova, Fang H
 
 Stephanie Schuckers, Paulo Meyer Lopez, Peter Johnson, Nadezhda Sazonova, Fang Hua, Rick Lazarick, Chris Miles, Elham Talbassi, Edward Sazonov, Arun Ross, Lawrence Hornak, Quality–Face / Iris Research Ensemble (Q-FIRE) Data Collection Steps, Technical Report, Clarkson University, Dept of Electrical and Computer Engineering, 2010.
 
-Information source from the depricated link at: https://citer.clarkson.edu/research-resources/biometric-dataset-collections-2/quality-faceiris-research-ensemble-q-fire/.
+Information source from the deprecated link at: https://citer.clarkson.edu/research-resources/biometric-dataset-collections-2/quality-faceiris-research-ensemble-q-fire/.
