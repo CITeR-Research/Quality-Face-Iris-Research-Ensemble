@@ -26,10 +26,6 @@ Over 175 subjects are included with at least two visits each. The dataset also i
 
 When using biometric collection, please cite:
 
- P. A. Johnson, P. Lopez-Meyer, N. Sazonova, F. Hua, S. Schuckers, Quality in Face and Iris Research Ensemble (Q-FIRE), Proceedings of Biometrics: Theory, Applications and Systems, 2010.
+P. A. Johnson, P. Lopez-Meyer, N. Sazonova, F. Hua, S. Schuckers, Quality in Face and Iris Research Ensemble (Q-FIRE), Proceedings of Biometrics: Theory, Applications and Systems, 2010.
 
-Stephanie Schuckers, Paulo Meyer Lopez, Peter Johnson, Nadezhda Sazonova, Fang Hua, Rick Lazarick, Chris Miles, Elham Talbassi, Edward Sazonov, Arun Ross, Lawrence Hornak, Quality–Face / Iris Research Ensemble (Q-FIRE) Dataset Overview, Technical Report, Clarkson University, Dept of Electrical and Computer Engineering, 2010.
-
-Stephanie Schuckers, Paulo Meyer Lopez, Peter Johnson, Nadezhda Sazonova, Fang Hua, Rick Lazarick, Chris Miles, Elham Talbassi, Edward Sazonov, Arun Ross, Lawrence Hornak, Quality–Face / Iris Research Ensemble (Q-FIRE) Data Collection Steps, Technical Report, Clarkson University, Dept of Electrical and Computer Engineering, 2010.
-
-Information source from the deprecated link at: https://citer.clarkson.edu/research-resources/biometric-dataset-collections-2/quality-faceiris-research-ensemble-q-fire/.
+[Stephanie Schuckers, Paulo Meyer Lopez, Peter Johnson, Nadezhda Sazonova, Fang Hua, Rick Lazarick, Chris Miles, Elham Talbassi, Edward Sazonov, Arun Ross, Lawrence Hornak, Quality–Face / Iris Research Ensemble (Q-FIRE) Dataset Overview, Technical Report, Clarkson University, Dept of Electrical and Computer Engineering, 2010.](https://ieeexplore.ieee.org/document/5634513)
